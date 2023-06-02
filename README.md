@@ -1,4 +1,4 @@
-# AI-GROUP-ASSIGNMENT-TWO
+# AI
 KNN, Decision Tree &amp; ANN
 There are people who are tested positive for diabetes depending on their symptoms in.
 How do we know whether they are diabetic or not depending on their symptoms.
